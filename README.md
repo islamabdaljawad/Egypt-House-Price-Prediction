@@ -8,8 +8,7 @@ An interactive Streamlit app that forecasts residential property prices in Egypt
 
 ## 📸 App Preview
 
-![App Screenshot](https://github.com/islamabdaljawad/forecast-egypt-property-values/assets/your-screenshot.png)  
-*Replace this image with a real screenshot or demo GIF.*
+![App Screenshot](https://github.com/islamabdaljawad/forecast-egypt-property-values/blob/main/Images/streamlit%20web.JPG)  
 
 ---
 
