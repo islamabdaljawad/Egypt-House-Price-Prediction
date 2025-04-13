@@ -1,17 +1,8 @@
-Absolutely, Islam! Below is your complete and professional **GitHub `README.md`** with detailed sections on:
-
-- ✅ Data cleaning (problem, solution, and process)  
-- ✅ All models tested, with performance metrics  
-- ✅ Best model selected  
-- ✅ Everything still clear, concise, and suitable for GitHub presentation
-
----
-
 # 🏠 Egypt House Price Prediction
 
 An interactive Streamlit app that forecasts residential property prices in Egypt using machine learning. Users can input specific property features and receive a real-time price prediction based on a trained model.
 
-> Built with 💡 by [Islam Abd Aljawad Ahmed](https://www.linkedin.com/in/islamabdaljawad/)
+> Built with 💡 by [Islam Abd Aljawad](https://www.linkedin.com/in/islamabdaljawad/) , [Mohamed Adel](https://www.linkedin.com/in/islamabdaljawad/) , [Rana Ashraf](https://www.linkedin.com/in/islamabdaljawad/),[Ahmed Abdelbaset](https://www.linkedin.com/in/islamabdaljawad/),[Habiba Kandil](https://www.linkedin.com/in/islamabdaljawad/)
 
 ---
 
