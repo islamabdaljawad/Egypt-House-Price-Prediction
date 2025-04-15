@@ -161,7 +161,7 @@ Achieved strong results:
 [LinkedIn](https://www.linkedin.com/in/islamabdaljawad) • [GitHub](https://github.com/islamabdaljawad) • [Portfolio](https://islamabdaljawad.github.io) • [Email](mailto:islamzabdzallah@gmail.com)
 
 **Mohammed Adel Mohammed**  
-[LinkedIn](https://www.linkedin.com/in/mohamed-adel-14885b248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+ [LinkedIn](https://www.linkedin.com/in/mohamed-adel-14885b248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 • [GitHub](https://github.com/MohAdel13)
 • [Email](mohammedofficial1311@gmail.com)
 
