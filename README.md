@@ -158,14 +158,14 @@ Achieved strong results:
 ## 👤 Author
 
 **Islam Abd Aljawad Ahmed**  
-[LinkedIn](https://www.linkedin.com/in/islamabdaljawad) • [GitHub](https://github.com/islamabdaljawad) • [Portfolio](https://islamabdaljawad.github.io) • [Email](mailto:islamzabdzallah@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/islamabdaljawad) • [GitHub](https://github.com/islamabdaljawad)  • [Email](mailto:islamzabdzallah@gmail.com)
 
 **Mohammed Adel Mohammed**  
  [LinkedIn](https://www.linkedin.com/in/mohamed-adel-14885b248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 • [GitHub](https://github.com/MohAdel13)
 • [Email](mohammedofficial1311@gmail.com)
 
-**Rana Ashraf Mahmoud**
+**Rana Ashraf Mahmoud** 
 [LinkedIn](https://www.linkedin.com/in/rana-ashraf-349a52198/) • [GitHub](https://github.com/Ranaashraff8)  • [Email](mailto:rana.ashraf.1197@gmail.com)
 
 **Ahmed samy Abdelbaset**  
