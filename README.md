@@ -165,10 +165,7 @@ Achieved strong results:
 • [GitHub](https://github.com/MohAdel13)
 • [Email](mohammedofficial1311@gmail.com)
 
-**Islam Abd Aljawad Ahmed**  
-[LinkedIn](https://www.linkedin.com/in/rana-ashraf-349a52198/) • [GitHub](https://github.com/Ranaashraff8)  • [Email](mailto:rana.ashraf.1197@gmail.com)
-
-**Rana Ashraf Mahmoud** 
+**Rana Ashraf Mahmoud**  
 [LinkedIn](https://www.linkedin.com/in/rana-ashraf-349a52198/) • [GitHub](https://github.com/Ranaashraff8)  • [Email](mailto:rana.ashraf.1197@gmail.com)
 
 **Ahmed samy Abdelbaset**  
