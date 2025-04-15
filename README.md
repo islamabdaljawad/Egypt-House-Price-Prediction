@@ -166,7 +166,7 @@ Achieved strong results:
 • [Email](mohammedofficial1311@gmail.com)
 
 **Rana Ashraf Mahmoud**
-[LinkedIn]([rana.ashraf.1197@gmail.com](https://www.linkedin.com/in/rana-ashraf-349a52198/)) • [GitHub]([https://github.com/islamabdaljawad](https://github.com/Ranaashraff8))  • [Email](mailto:rana.ashraf.1197@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rana-ashraf-349a52198/) • [GitHub](https://github.com/Ranaashraff8)  • [Email](mailto:rana.ashraf.1197@gmail.com)
 
 **Ahmed samy Abdelbaset**  
 [LinkedIn](https://www.linkedin.com/in/ahmed-samy-abdelbaset-40060620a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) • [GitHub](https://github.com/ahmedabdelbast) • [Email](mailto:a7medabdelbast@gmail.com)
