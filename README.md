@@ -2,7 +2,7 @@
 
 An interactive Streamlit app that forecasts residential property prices in Egypt using machine learning. Users can input specific property features and receive a real-time price prediction based on a trained model.
 
-> Built with 💡 by [Islam Abd Aljawad](https://www.linkedin.com/in/islamabdaljawad/) , [Mohamed Adel](https://www.linkedin.com/in/islamabdaljawad/) , [Rana Ashraf](https://www.linkedin.com/in/islamabdaljawad/),[Ahmed Abdelbaset](https://www.linkedin.com/in/islamabdaljawad/),[Habiba Kandil](https://www.linkedin.com/in/islamabdaljawad/)
+> Built with 💡 by [Islam Abd Aljawad](https://www.linkedin.com/in/islamabdaljawad/) , [Mohamed Adel](https://www.linkedin.com/in/mohamed-adel-14885b248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) , [Rana Ashraf](https://www.linkedin.com/in/rana-ashraf-349a52198/),[Ahmed Abdelbaset](https://www.linkedin.com/in/ahmed-samy-abdelbaset-40060620a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app),[Habiba Kandil](https://www.linkedin.com/in/islamabdaljawad/)
 
 ---
 
@@ -161,9 +161,9 @@ Achieved strong results:
 [LinkedIn](https://www.linkedin.com/in/islamabdaljawad) • [GitHub](https://github.com/islamabdaljawad) • [Portfolio](https://islamabdaljawad.github.io) • [Email](mailto:islamzabdzallah@gmail.com)
 
 **Mohammed Adel Mohammed**  
-* [LinkedIn](https://www.linkedin.com/in/mohamed-adel-14885b248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-* [GitHub](https://github.com/MohAdel13)
-* [Email](mohammedofficial1311@gmail.com)
+• [LinkedIn](https://www.linkedin.com/in/mohamed-adel-14885b248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+• [GitHub](https://github.com/MohAdel13)
+• [Email](mohammedofficial1311@gmail.com)
 
 **Rana Ashraf Mahmoud**  
 [LinkedIn]([rana.ashraf.1197@gmail.com](https://www.linkedin.com/in/rana-ashraf-349a52198/)) • [GitHub]([https://github.com/islamabdaljawad](https://github.com/Ranaashraff8))  • [Email](mailto:rana.ashraf.1197@gmail.com)
