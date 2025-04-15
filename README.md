@@ -69,24 +69,30 @@ Several machine learning regression models were trained and tested to predict ho
 
 ### 📊 Models and Their Results
 
-| Model               | R² Score | MAE (EGP)   | RMSE (EGP)   |
-|--------------------|----------|-------------|--------------|
-| **Linear Regression** | 0.69     | 641,000     | 1,121,000    |
-| **Ridge Regression**  | 0.70     | 629,000     | 1,097,000    |
-| **Decision Tree**     | 0.76     | 561,000     | 1,008,000    |
-| **XGBoost**           | 0.82     | 505,000     | 910,000      |
-| **Random Forest**     | **0.84** | **487,000** | **862,000**  |
+| Model                      | RMSE  | R² Score |
+|---------------------------|-------|----------|
+| **Random Forest**             | 0.70  | 0.65     |
+| **Random Forest with PCA**    | 0.81  | 0.53     |
+| **Support Vector Regression** | 0.83  | 0.50     |
+| **XGBoost**                   | 0.70  | 0.65     |
+| **LightGBM**                  | 0.70  | 0.65     |
+| **Linear Regression**         | 0.82  | 0.52     |
+| **Neural Network**            | 0.74  | 0.61     |
+| **Other Neural Network**      | 0.74  | 0.60     |
+| **Stacked Models**            | 0.70  | 0.65     |
 
 ---
 
+
 ### 🏆 Best Performing Model
 
-- **Random Forest Regressor**  
-- Tuned using **GridSearchCV**
-- Achieved the best results:
-  - R² Score: **0.84**
-  - MAE: **487,000 EGP**
-  - RMSE: **862,000 EGP**
+- LightGBM Regressor  
+- Chosen for its *small model size* and *high accuracy*  
+    Efficient for deployment and fast inference
+Achieved strong results:
+
+  - R² Score: 0.65
+  - RMSE: 700,000 EGP
 
 ---
 
