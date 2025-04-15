@@ -158,7 +158,7 @@ Achieved strong results:
 ## 👤 Author
 
 **Islam Abd Aljawad Ahmed**  
-[LinkedIn](https://www.linkedin.com/in/islamabdaljawad) • [GitHub](https://github.com/islamabdaljawad) • [Portfolio](https://islamabdaljawad.github.io) • [Email](mailto:islam.abdaljawad01@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/islamabdaljawad) • [GitHub](https://github.com/islamabdaljawad) • [Portfolio](https://islamabdaljawad.github.io) • [Email](mailto:islamzabdzallah@gmail.com)
 
 ---
 
