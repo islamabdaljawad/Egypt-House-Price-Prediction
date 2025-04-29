@@ -178,9 +178,6 @@ The Streamlit app allows users to interactively:
 | Page     | Function                                      |
 |----------|-----------------------------------------------|
 | Home     | Model introduction and prediction form        |
-| Dashboard| Visual insights (graphs and tables)           |
-| About    | Project description, team members, and GitHub links |
-
 ---
 
 ## Dashboard Visualizations
