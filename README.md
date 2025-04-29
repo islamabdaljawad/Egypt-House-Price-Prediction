@@ -264,6 +264,11 @@ Feel free to use, distribute, and modify it with attribution.
 For any questions, improvements, or business inquiries, please reach out:
 
 - Mohamed Adel: [LinkedIn](https://www.linkedin.com/in/mohamed-adel/)
+- Islam Abd Aljawad : [LinkedIn](https://www.linkedin.com/in/islam-abd-aljawad/)
+- Rana Ashraf : [LinkedIn](https://www.linkedin.com/in/rana-ashraf/)
+- Ahmed Abdelbaset : [LinkedIn](https://www.linkedin.com/in/ahmed-abdelbaset/)
+- Habiba Kandil : [LinkedIn](https://www.linkedin.com/in/habiba-kandil/)      
+
 - Open an [Issue](https://github.com/islamabdaljawad/Egypt-House-Price-Prediction/issues) on GitHub.
 
 ---
