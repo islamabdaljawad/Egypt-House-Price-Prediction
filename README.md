@@ -143,7 +143,6 @@ The project uses a real estate dataset containing property listings from Egypt.
 
 - **R² Score** (Coefficient of Determination)
 - **RMSE** (Root Mean Squared Error)
-- **MAE** (Mean Absolute Error)
 
 **Cross-validation:**
 
@@ -168,10 +167,7 @@ The Streamlit app allows users to interactively:
 - Select **Location** from a dropdown.
 - Adjust **Area**, **Number of Bedrooms**, and **Number of Bathrooms** using sliders.
 - Predict property price dynamically.
-- View a **data dashboard**:
-  - Price distributions.
-  - Area-to-price correlations.
-  - City-wise average prices.
+
 
 **App Pages:**
 
@@ -182,7 +178,7 @@ The Streamlit app allows users to interactively:
 
 ## Dashboard Visualizations
 
-**File:** `dashboard/dashboard.py`
+**File:** `dashboard`
 
 Interactive, live graphs:
 
@@ -191,7 +187,7 @@ Interactive, live graphs:
 - Scatter plot (Area vs Price).
 - Correlation heatmap of numeric features.
 
-**Powered by Plotly** for dynamic, zoomable charts.
+**Powered by Dashboard** for dynamic, zoomable charts.
 
 ---
 
