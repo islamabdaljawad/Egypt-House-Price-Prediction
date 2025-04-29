@@ -1,13 +1,3 @@
-# 🏠 Egypt House Price Prediction
-
-An interactive Streamlit app that forecasts residential property prices in Egypt using machine learning. Users can input specific property features and receive a real-time price prediction based on a trained model.
-
-> Built with 💡 by [Islam Abd Aljawad](https://www.linkedin.com/in/islamabdaljawad/) , [Mohamed Adel](https://www.linkedin.com/in/mohamed-adel-14885b248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) , [Rana Ashraf](https://www.linkedin.com/in/rana-ashraf-349a52198/) , [Ahmed Abdelbaset](https://www.linkedin.com/in/ahmed-samy-abdelbaset-40060620a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) , [Habiba Kandil](https://www.linkedin.com/in/islamabdaljawad/)
-
-Certainly! Here's a comprehensive and professional `README.md` for the [Egypt House Price Prediction](https://github.com/islamabdaljawad/Egypt-House-Price-Prediction) project. This documentation includes detailed sections on data description, feature explanation, MLflow tracking, Streamlit UI structure, deployment instructions, and future improvement plans.
-
----
-
 # 🏡 Egypt House Price Prediction
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
@@ -17,6 +7,7 @@ Certainly! Here's a comprehensive and professional `README.md` for the [Egypt Ho
 
 An interactive Streamlit application that forecasts residential property prices in Egypt using machine learning. Users can input specific property features and receive a real-time price prediction based on a trained model.
 
+> Built with 💡 by [Islam Abd Aljawad](https://www.linkedin.com/in/islamabdaljawad/) , [Mohamed Adel](https://www.linkedin.com/in/mohamed-adel-14885b248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) , [Rana Ashraf](https://www.linkedin.com/in/rana-ashraf-349a52198/) , [Ahmed Abdelbaset](https://www.linkedin.com/in/ahmed-samy-abdelbaset-40060620a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) , [Habiba Kandil](https://www.linkedin.com/in/islamabdaljawad/)
 ---
 
 ## 📑 Table of Contents
