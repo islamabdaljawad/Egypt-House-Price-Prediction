@@ -9,7 +9,7 @@ An interactive Streamlit application that forecasts residential property prices 
 
 > Built with 💡 by [Islam Abd Aljawad](https://www.linkedin.com/in/islamabdaljawad/) , [Mohamed Adel](https://www.linkedin.com/in/mohamed-adel-14885b248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) , [Rana Ashraf](https://www.linkedin.com/in/rana-ashraf-349a52198/) , [Ahmed Abdelbaset](https://www.linkedin.com/in/ahmed-samy-abdelbaset-40060620a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) , [Habiba Kandil](https://www.linkedin.com/in/islamabdaljawad/)
 ---
-[Milestones](https://drive.google.com/drive/folders/1og4OWp5_z2063icvhXuPHKTfJgkoZ8kh?usp=drive_link)
+[🚀 Milestones](https://drive.google.com/drive/folders/1og4OWp5_z2063icvhXuPHKTfJgkoZ8kh?usp=drive_link)
 
 ## 📑 Table of Contents
 
