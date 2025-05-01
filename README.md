@@ -7,7 +7,7 @@
 
 An interactive Streamlit application that forecasts residential property prices in Egypt using machine learning. Users can input specific property features and receive a real-time price prediction based on a trained model.
 
-> Built with 💡 by [Islam Abd Aljawad](https://www.linkedin.com/in/islamabdaljawad/) , [Mohamed Adel](https://www.linkedin.com/in/mohamed-adel-14885b248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) , [Rana Ashraf](https://www.linkedin.com/in/rana-ashraf-349a52198/) , [Ahmed Abdelbaset](https://www.linkedin.com/in/ahmed-samy-abdelbaset-40060620a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) , [Habiba Kandil](https://www.linkedin.com/in/habiba-kandil/)
+> Built with 💡 by [Islam Abd Aljawad](https://www.linkedin.com/in/islamabdaljawad/) , [Mohamed Adel](https://www.linkedin.com/in/mohamed-adel-14885b248?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) , [Rana Ashraf](https://www.linkedin.com/in/rana-ashraf-349a52198/) , [Ahmed Abdelbaset](https://www.linkedin.com/in/ahmed-samy-abdelbaset-40060620a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) , [Habiba Ayman](https://www.linkedin.com/in/habiba-ayman-384229227/)
 ---
 [🚀Milestones](https://drive.google.com/drive/folders/1og4OWp5_z2063icvhXuPHKTfJgkoZ8kh?usp=drive_link)
 
@@ -249,7 +249,7 @@ The app should open automatically in your browser: [http://localhost:8501](http:
 | [Mohamed Adel](https://www.linkedin.com/in/mohamed-adel/)             | ML Engineer        | [LinkedIn](https://www.linkedin.com/in/mohamed-adel/)      |
 | [Rana Ashraf](https://www.linkedin.com/in/rana-ashraf/)               | Data Analyst       | [LinkedIn](https://www.linkedin.com/in/rana-ashraf/)        |
 | [Ahmed Abdelbaset](https://www.linkedin.com/in/ahmed-abdelbaset/)     | ML Engineer        | [LinkedIn](https://www.linkedin.com/in/ahmed-abdelbaset/)   |
-| [Habiba Kandil](https://www.linkedin.com/in/habiba-kandil/)           | Project Manager    | [LinkedIn](https://www.linkedin.com/in/habiba-kandil/)      |
+| [Habiba Ayman](https://www.linkedin.com/in/habiba-ayman-384229227/)           | Project Manager    | [LinkedIn](https://www.linkedin.com/in/habiba-ayman-384229227/)      |
 
 ---
 
@@ -268,7 +268,7 @@ For any questions, improvements, or business inquiries, please reach out:
 - Islam Abd Aljawad : [LinkedIn](https://www.linkedin.com/in/islam-abd-aljawad/)
 - Rana Ashraf : [LinkedIn](https://www.linkedin.com/in/rana-ashraf/)
 - Ahmed Abdelbaset : [LinkedIn](https://www.linkedin.com/in/ahmed-abdelbaset/)
-- Habiba Kandil : [LinkedIn](https://www.linkedin.com/in/habiba-kandil/)      
+- Habiba Ayman : [LinkedIn](https://www.linkedin.com/in/habiba-ayman-384229227/)      
 
 - Open an [Issue](https://github.com/islamabdaljawad/Egypt-House-Price-Prediction/issues) on GitHub.
 
